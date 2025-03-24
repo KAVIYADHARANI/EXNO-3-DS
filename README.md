@@ -1,4 +1,4 @@
-<img width="576" alt="a1" src="https://github.com/user-attachments/assets/a90d94b1-8d9d-4b1c-9394-1ab576ea2e5d" />## EXNO-3-DS
+## EXNO-3-DS
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
@@ -243,9 +243,9 @@ plt.show()
 sm.qqplot(np.abs(vf["Highly Negative Skew_1"]),line='45')
 plt.show()
 ```
+<img width="576" alt="a24" src="https://github.com/user-attachments/assets/3523f1a9-46bf-43fd-aeaa-0ab004c6f239" />
 
 
-<img width="576" alt="a24" src="https://github.com/user-attachments/assets/19cd0d35-62e5-4233-ace9-007d5b9aefb4" />
 
 ```
 sm.qqplot(np.log(vf["Highly Negative Skew_1"]),line='45')
@@ -261,7 +261,8 @@ sm.qqplot(np.sqrt(vf["Highly Negative Skew_1"]),line='45')
 plt.show()
 ```
 
-<img width="576" alt="a26" src="https://github.com/user-attachments/assets/78711db9-d2cb-46f5-9b3c-c7b484d8a6ae" />
+<img width="576" alt="a26" src="https://github.com/user-attachments/assets/605aea61-644d-4c72-9be8-5094b08ef02d" />
+
 
 
 
@@ -271,28 +272,6 @@ pd.concat([cc,new],axis=1)
 ```
 
 <img width="576" alt="a27" src="https://github.com/user-attachments/assets/23442958-7834-4b2e-aa24-193a96448ace" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
